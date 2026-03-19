@@ -66,8 +66,8 @@ Campagne digitale pour le lancement véhicule KIA France. Expérience immersive 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ewankerboas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewankerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ewan-kerboas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-kerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -77,7 +77,7 @@ Campagne digitale pour le lancement véhicule KIA France. Expérience immersive 
 
 Je travaille avec des **agences**, **startups** et **éditeurs SaaS** sur des missions React / Next.js.
 
-> 📬 Contactez-moi sur [LinkedIn](https://linkedin.com/in/ewankerboas) ou [Malt](https://malt.fr/profile/ewankerboas)
+> 📬 Contactez-moi sur [LinkedIn](https://linkedin.com/in/ewan-kerboas) ou [Malt](https://malt.fr/profile/ewankerboas)
 
 ---
 
