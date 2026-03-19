@@ -34,31 +34,22 @@
 
 ## 🚀 Projets
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔨 [Doksy](https://doksy.fr)
+### 🔨 [Doksy](https://doksy.fr) — SaaS BTP
 ![Status](https://img.shields.io/badge/Status-En_cours-orange?style=flat-square)
-![SaaS](https://img.shields.io/badge/Type-SaaS_BTP-blue?style=flat-square)
 
-Plateforme de gestion de documents BTP — PPSPS, Plan de Prévention, suivi de conformité. Auto-complétion des données chantier, workflow de validation, export Word/PDF.
+Plateforme de gestion de documents BTP — PPSPS, Plan de Prévention, suivi de conformité.  
+Auto-complétion des données chantier, workflow de validation, export Word/PDF.
 
 `Next.js` · `GPT-4o` · `Prisma` · `Stripe`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### 🏆 KIA France
+### 🏆 KIA France — Campagne digitale
 ![Client](https://img.shields.io/badge/Client-KIA_France-E50000?style=flat-square)
 
-Campagne digitale pour le lancement véhicule KIA France. Expérience immersive 3D/WebGL primée sur Awwwards.
+Expérience immersive 3D/WebGL pour le lancement véhicule KIA France, primée sur Awwwards.
 
 `Three.js` · `WebGL` · `GSAP`
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -66,8 +57,7 @@ Campagne digitale pour le lancement véhicule KIA France. Expérience immersive 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ewan-kerboas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-kerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-kerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
