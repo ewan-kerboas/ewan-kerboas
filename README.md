@@ -50,7 +50,7 @@ Plateforme de gestion de documents BTP — PPSPS, Plan de Prévention, suivi de 
     <td width="50%" valign="top">
 
 ### 🏆 KIA France
-![Client](https://img.shields.io/badge/Awwwards-Honorable_Mention-yellow?style=flat-square)
+![Client](https://img.shields.io/badge/Client-KIA_France-E50000?style=flat-square)
 
 Campagne digitale pour le lancement véhicule KIA France. Expérience immersive 3D/WebGL primée sur Awwwards.
 
