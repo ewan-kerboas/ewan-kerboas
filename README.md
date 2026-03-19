@@ -55,9 +55,9 @@ Expérience immersive 3D/WebGL pour le lancement véhicule KIA France, primée s
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
-<img height="160" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-kerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-kerboas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
